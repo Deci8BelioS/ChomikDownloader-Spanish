@@ -2,6 +2,10 @@
 
 Este script, escrito en Python 3.8, te permite descargar archivos desde Chomikuj.pl.
 
+## Requisitos:
+- **Linux con Python 3.8 o superior instalado**
+- **Tener el paquete requests para python 3**
+
 ## Parámetros disponibles:
 
 - **-u**: Usuario de Chomikuj.
